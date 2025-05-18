@@ -8,4 +8,5 @@ No modelo, os médicos são cadastrados com seus dados pessoais e classificados 
 
 Ao final de cada consulta, é possível gerar uma receita médica com os medicamentos prescritos, incluindo quantidade e instruções de uso. Essas informações ficam vinculadas à consulta e ao paciente, permitindo gerar relatórios ou acesso online. O modelo foi planejado para garantir flexibilidade, integridade dos dados e facilitar a transição de registros antigos para o novo sistema digital.
 
-![diagrama ER](https://github.com/user-attachments/assets/bafe4584-b968-4a5e-ad48-0dd7f466f92b)
+
+![diagrama ER 01](https://github.com/user-attachments/assets/5387d78b-56fd-4fb7-ab46-06d2e63ea586)
